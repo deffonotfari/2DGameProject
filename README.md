@@ -15,8 +15,7 @@ I have recreated a simpler version of the 3DS Mario Kart, which has similar func
 I have found this sprite design on Pinterest. The reason why I have decided to use it is because it matches the late night city aesthetic of my game. The purpose of the game is to enable the user to have a relaxed playing session, whilst also enjoying defeating the enemies and collecting objects. This game has a competitive edge, hwoever it is against ourselves, rather than others. This is because the high score only records the individual user's information.
 <br>
 <br>
-![normalPosition](https://github.com/deffonotfari/2DGameProject/assets/105233354/3c1fc5c3-5c8b-4fd2-aeae-65f9c79a48a6)
-<img width="60" position = "center" alt="normalPosition" src="https://github.com/deffonotfari/2DGameProject/assets/105233354/3c1fc5c3-5c8b-4fd2-aeae-65f9c79a48a6">
+<img width="160" position = "center" alt="normalPosition" src="https://github.com/deffonotfari/2DGameProject/assets/105233354/3c1fc5c3-5c8b-4fd2-aeae-65f9c79a48a6">
 
 ## Levels
 
