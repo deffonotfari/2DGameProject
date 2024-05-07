@@ -4,6 +4,7 @@
 # Game
 
 As part of my University module project, I have been tasked to develop a game, which involves building a functional 2D Game using the City Engine Physics library. 
+<br><br>
 
 I have recreated a simpler version of the 3DS Mario Kart, which has similar functions of collecting items, defeating enemies and reaching an end-goal in order to win the game. 
 
@@ -12,12 +13,13 @@ I have recreated a simpler version of the 3DS Mario Kart, which has similar func
 
 ## Character Design
 I have created a pixel character called 'Amanda' for the game. I have used the following website to make it [Avatar in Pixels](https://www.avatarsinpixels.com/chibi/Backup#google_vignette)
+<br>
 ![normalPosition](https://github.com/deffonotfari/2DGameProject/assets/105233354/3c1fc5c3-5c8b-4fd2-aeae-65f9c79a48a6)
 
 
 ## Levels
 
-Level 1:
+<p><b>Level 1:</b></p>
 <br>
 <img width="761" alt="Screenshot 2024-05-07 at 03 09 38" src="https://github.com/deffonotfari/2DGameProject/assets/105233354/f54051ba-5526-45fc-8643-3891d38422d1">
 <br>
