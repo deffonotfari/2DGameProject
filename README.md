@@ -12,10 +12,11 @@ I have recreated a simpler version of the 3DS Mario Kart, which has similar func
 
 
 ## Character Design
-I have created a pixel character called 'Amanda' for the game. I have used the following website to make it [Avatar in Pixels](https://www.avatarsinpixels.com/chibi/Backup#google_vignette)
+I have found this sprite design on Pinterest. The reason why I have decided to use it is because it matches the late night city aesthetic of my game. The purpose of the game is to enable the user to have a relaxed playing session, whilst also enjoying defeating the enemies and collecting objects. This game has a competitive edge, hwoever it is against ourselves, rather than others. This is because the high score only records the individual user's information.
+<br>
 <br>
 ![normalPosition](https://github.com/deffonotfari/2DGameProject/assets/105233354/3c1fc5c3-5c8b-4fd2-aeae-65f9c79a48a6)
-
+<img width="60" position = "center" alt="normalPosition" src="https://github.com/deffonotfari/2DGameProject/assets/105233354/3c1fc5c3-5c8b-4fd2-aeae-65f9c79a48a6">
 
 ## Levels
 
@@ -24,20 +25,20 @@ I have created a pixel character called 'Amanda' for the game. I have used the f
 <img width="761" alt="Screenshot 2024-05-07 at 03 09 38" src="https://github.com/deffonotfari/2DGameProject/assets/105233354/f54051ba-5526-45fc-8643-3891d38422d1">
 <br>
 <br>
-Levwl 2:
+<p><b>Level 2:</b></p>
 <br>
 <img width="762" alt="Screenshot 2024-05-07 at 03 11 08" src="https://github.com/deffonotfari/2DGameProject/assets/105233354/ea9e7aeb-784a-41ac-81ff-cd036d537e36">
 <br>
 <br>
 
 
-Level 3:
+<p><b>Level 3:</b></p>
 <br>
 <img width="735" alt="Screenshot 2024-05-07 at 03 11 51" src="https://github.com/deffonotfari/2DGameProject/assets/105233354/a5addbca-6661-4105-a6f2-de0901815f0b">
 <br>
 <br>
 
-Level 4:
+<p><b>Level 4:</b></p>
 <br>
 <img width="803" alt="Screenshot 2024-05-07 at 03 12 05" src="https://github.com/deffonotfari/2DGameProject/assets/105233354/e306161e-a634-4419-bd28-2dbcf1d16291">
 <br>
